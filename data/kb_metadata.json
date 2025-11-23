@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "category": "Billing",
+    "title": "Refund policy"
+  },
+  {
+    "id": 2,
+    "category": "Technical",
+    "title": "App crashes on launch"
+  },
+  {
+    "id": 3,
+    "category": "Account",
+    "title": "Reset password"
+  },
+  {
+    "id": 4,
+    "category": "Billing",
+    "title": "Double charges"
+  },
+  {
+    "id": 5,
+    "category": "Billing",
+    "title": "Card declined"
+  },
+  {
+    "id": 6,
+    "category": "Technical",
+    "title": "Slow loading"
+  },
+  {
+    "id": 7,
+    "category": "Refund",
+    "title": "Refund eligibility"
+  },
+  {
+    "id": 8,
+    "category": "Account",
+    "title": "Update email"
+  },
+  {
+    "id": 9,
+    "category": "Bug",
+    "title": "UI not loading"
+  },
+  {
+    "id": 10,
+    "category": "Technical",
+    "title": "Login issues"
+  },
+  {
+    "id": 11,
+    "category": "Billing",
+    "title": "Invoice requests"
+  },
+  {
+    "id": 12,
+    "category": "Refund",
+    "title": "Refund delays"
+  },
+  {
+    "id": 13,
+    "category": "Account",
+    "title": "Delete account"
+  },
+  {
+    "id": 14,
+    "category": "Bug",
+    "title": "Buttons not responding"
+  },
+  {
+    "id": 15,
+    "category": "Technical",
+    "title": "App update fails"
+  },
+  {
+    "id": 16,
+    "category": "Billing",
+    "title": "Change subscription"
+  },
+  {
+    "id": 17,
+    "category": "Account",
+    "title": "Change username"
+  },
+  {
+    "id": 18,
+    "category": "Refund",
+    "title": "Partial refund"
+  },
+  {
+    "id": 19,
+    "category": "Bug",
+    "title": "Notifications not showing"
+  },
+  {
+    "id": 20,
+    "category": "Technical",
+    "title": "Server downtime"
+  },
+  {
+    "id": 21,
+    "category": "Billing",
+    "title": "Payment receipt"
+  },
+  {
+    "id": 22,
+    "category": "Account",
+    "title": "Two-factor authentication"
+  },
+  {
+    "id": 23,
+    "category": "Refund",
+    "title": "Unauthorized charge refund"
+  },
+  {
+    "id": 24,
+    "category": "Bug",
+    "title": "Error code 500"
+  },
+  {
+    "id": 25,
+    "category": "Technical",
+    "title": "Audio not working"
+  },
+  {
+    "id": 26,
+    "category": "Billing",
+    "title": "Promo code failure"
+  },
+  {
+    "id": 27,
+    "category": "Account",
+    "title": "Link social accounts"
+  },
+  {
+    "id": 28,
+    "category": "Refund",
+    "title": "Refund confirmation"
+  },
+  {
+    "id": 29,
+    "category": "Bug",
+    "title": "Scrolling issues"
+  },
+  {
+    "id": 30,
+    "category": "Technical",
+    "title": "Video not loading"
+  },
+  {
+    "id": 31,
+    "category": "Billing",
+    "title": "Overcharge"
+  },
+  {
+    "id": 32,
+    "category": "Account",
+    "title": "Phone number update"
+  },
+  {
+    "id": 33,
+    "category": "Refund",
+    "title": "Refund method"
+  },
+  {
+    "id": 34,
+    "category": "Bug",
+    "title": "App freezing"
+  },
+  {
+    "id": 35,
+    "category": "Technical",
+    "title": "Image upload failure"
+  },
+  {
+    "id": 36,
+    "category": "Billing",
+    "title": "Missing invoice"
+  },
+  {
+    "id": 37,
+    "category": "Account",
+    "title": "Session timeout"
+  },
+  {
+    "id": 38,
+    "category": "Refund",
+    "title": "Refund denied"
+  },
+  {
+    "id": 39,
+    "category": "Bug",
+    "title": "Text overlap"
+  },
+  {
+    "id": 40,
+    "category": "Technical",
+    "title": "Connectivity problems"
+  },
+  {
+    "id": 41,
+    "category": "Billing",
+    "title": "Billing cycle info"
+  },
+  {
+    "id": 42,
+    "category": "Account",
+    "title": "Password strength"
+  },
+  {
+    "id": 43,
+    "category": "Refund",
+    "title": "Suspected fraud"
+  },
+  {
+    "id": 44,
+    "category": "Bug",
+    "title": "Keyboard not opening"
+  },
+  {
+    "id": 45,
+    "category": "Technical",
+    "title": "App overheating"
+  },
+  {
+    "id": 46,
+    "category": "Billing",
+    "title": "Cancel subscription"
+  },
+  {
+    "id": 47,
+    "category": "Account",
+    "title": "Account locked"
+  },
+  {
+    "id": 48,
+    "category": "Refund",
+    "title": "Refund notifications"
+  },
+  {
+    "id": 49,
+    "category": "Bug",
+    "title": "Links not opening"
+  },
+  {
+    "id": 50,
+    "category": "Technical",
+    "title": "Screen flickering"
+  },
+  {
+    "id": 51,
+    "category": "Billing",
+    "title": "Expired card"
+  },
+  {
+    "id": 52,
+    "category": "Account",
+    "title": "Profile picture upload"
+  },
+  {
+    "id": 53,
+    "category": "Refund",
+    "title": "Refund policy exceptions"
+  },
+  {
+    "id": 54,
+    "category": "Bug",
+    "title": "Dark mode glitch"
+  },
+  {
+    "id": 55,
+    "category": "Technical",
+    "title": "File download failure"
+  },
+  {
+    "id": 56,
+    "category": "Billing",
+    "title": "Incorrect currency"
+  },
+  {
+    "id": 57,
+    "category": "Account",
+    "title": "Language settings"
+  },
+  {
+    "id": 58,
+    "category": "Refund",
+    "title": "Refund review time"
+  },
+  {
+    "id": 59,
+    "category": "Bug",
+    "title": "Search bar not working"
+  },
+  {
+    "id": 60,
+    "category": "Technical",
+    "title": "GPS not working"
+  },
+  {
+    "id": 61,
+    "category": "Billing",
+    "title": "Tax calculation"
+  },
+  {
+    "id": 62,
+    "category": "Account",
+    "title": "Reactivation"
+  },
+  {
+    "id": 63,
+    "category": "Refund",
+    "title": "Subscription refund"
+  },
+  {
+    "id": 64,
+    "category": "Bug",
+    "title": "Audio delay"
+  },
+  {
+    "id": 65,
+    "category": "Technical",
+    "title": "Bluetooth issues"
+  },
+  {
+    "id": 66,
+    "category": "Billing",
+    "title": "Chargeback disputes"
+  },
+  {
+    "id": 67,
+    "category": "Account",
+    "title": "Email verification"
+  },
+  {
+    "id": 68,
+    "category": "Refund",
+    "title": "Refund to wallet"
+  },
+  {
+    "id": 69,
+    "category": "Bug",
+    "title": "Animations broken"
+  },
+  {
+    "id": 70,
+    "category": "Technical",
+    "title": "Login session expired"
+  },
+  {
+    "id": 71,
+    "category": "Billing",
+    "title": "Payment method support"
+  },
+  {
+    "id": 72,
+    "category": "Account",
+    "title": "Deactivate account"
+  },
+  {
+    "id": 73,
+    "category": "Refund",
+    "title": "Refund for add-ons"
+  },
+  {
+    "id": 74,
+    "category": "Bug",
+    "title": "Screen rotation issue"
+  },
+  {
+    "id": 75,
+    "category": "Technical",
+    "title": "Microphone not working"
+  },
+  {
+    "id": 76,
+    "category": "Billing",
+    "title": "Pending payment"
+  },
+  {
+    "id": 77,
+    "category": "Account",
+    "title": "Manage devices"
+  },
+  {
+    "id": 78,
+    "category": "Refund",
+    "title": "Multiple refunds request"
+  },
+  {
+    "id": 79,
+    "category": "Bug",
+    "title": "Color inversion issue"
+  },
+  {
+    "id": 80,
+    "category": "Technical",
+    "title": "Cache corruption"
+  },
+  {
+    "id": 81,
+    "category": "Billing",
+    "title": "Subscription upgrade"
+  },
+  {
+    "id": 82,
+    "category": "Account",
+    "title": "Child account restrictions"
+  },
+  {
+    "id": 83,
+    "category": "Refund",
+    "title": "Refund confirmation missing"
+  },
+  {
+    "id": 84,
+    "category": "Bug",
+    "title": "Gesture issues"
+  },
+  {
+    "id": 85,
+    "category": "Technical",
+    "title": "Screen resolution mismatch"
+  },
+  {
+    "id": 86,
+    "category": "Billing",
+    "title": "Add payment method"
+  },
+  {
+    "id": 87,
+    "category": "Account",
+    "title": "Username unavailable"
+  },
+  {
+    "id": 88,
+    "category": "Refund",
+    "title": "Refund timeline"
+  },
+  {
+    "id": 89,
+    "category": "Bug",
+    "title": "Loading spinner stuck"
+  },
+  {
+    "id": 90,
+    "category": "Technical",
+    "title": "WiFi not detected"
+  },
+  {
+    "id": 91,
+    "category": "Billing",
+    "title": "Trial period info"
+  },
+  {
+    "id": 92,
+    "category": "Account",
+    "title": "Login with OTP"
+  },
+  {
+    "id": 93,
+    "category": "Refund",
+    "title": "Refund for fraud case"
+  },
+  {
+    "id": 94,
+    "category": "Bug",
+    "title": "Crash on logout"
+  },
+  {
+    "id": 95,
+    "category": "Technical",
+    "title": "App not installing"
+  },
+  {
+    "id": 96,
+    "category": "Billing",
+    "title": "Promo rewards"
+  },
+  {
+    "id": 97,
+    "category": "Account",
+    "title": "Restricted access"
+  },
+  {
+    "id": 98,
+    "category": "Refund",
+    "title": "Gift card refund"
+  },
+  {
+    "id": 99,
+    "category": "Bug",
+    "title": "Overlay not dismissing"
+  },
+  {
+    "id": 100,
+    "category": "Technical",
+    "title": "Network timeout"
+  }
+]
